@@ -1,7 +1,7 @@
 {
   "name": "document.head",
   "version": "0.0.0",
-  "description": "document.head polyfill for CommonJS",
+  "description": "document.head shim for CommonJS",
   "main": "head.js",
   "scripts": {
     "test": "node test/defined && node test/undefined"
@@ -13,7 +13,8 @@
   "keywords": [
     "document.head",
     "head",
-    "polyfill"
+    "polyfill",
+    "shim"
   ],
   "author": "Evan Hahn <me@evanhahn.com> (http://evanhahn.com)",
   "license": "MIT",
