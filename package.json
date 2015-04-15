@@ -1,6 +1,6 @@
 {
   "name": "document.head",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "document.head shim for CommonJS",
   "main": "head.js",
   "scripts": {
