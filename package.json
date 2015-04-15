@@ -1,0 +1,24 @@
+{
+  "name": "document.head",
+  "version": "0.0.0",
+  "description": "document.head polyfill for CommonJS",
+  "main": "head.js",
+  "scripts": {
+    "test": "node test/defined && node test/undefined"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EvanHahn/document.head.git"
+  },
+  "keywords": [
+    "document.head",
+    "head",
+    "polyfill"
+  ],
+  "author": "Evan Hahn <me@evanhahn.com> (http://evanhahn.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EvanHahn/document.head/issues"
+  },
+  "homepage": "https://github.com/EvanHahn/document.head"
+}
